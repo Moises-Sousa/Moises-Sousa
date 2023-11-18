@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/Moises-Sousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moises-Sousa&count_private=true&show_icons=true&theme=radical&include_all_commits"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Sousa&theme=radical&layout=compact"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Moises-Sousa&count_private=true&show_icons=true&theme=radical&include_all_commits"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Sousa&theme=radical&layout=compact"/>
 </div>
 
 ##
